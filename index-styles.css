@@ -1,0 +1,10 @@
+.title {
+  color: red;
+  text-align: center;
+}
+
+.recipe-list {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
